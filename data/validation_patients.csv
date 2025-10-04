@@ -1,0 +1,61 @@
+Group;Sex;Age;Patients number per hour;Arrival mode;Injury;Chief_complain;Mental;Pain;NRS_pain;SBP;DBP;HR;RR;BT;Saturation;KTAS_RN;Diagnosis in ED;Disposition;KTAS_expert;Error_group;Length of stay_min;KTAS duration_min;mistriage
+2;1;30;12;3;1;fever & chill;1;0;#BOÞ!;90;50;84;20;38.7;97;4;Fever, unspecified;1;4;0;508;4,00;0
+1;2;57;7;3;2;eyebrow laceration;1;0;#BOÞ!;133;67;89;16;36.8;;4;Laceration of face;1;4;0;90;10,47;0
+2;2;51;8;3;2;ocular pain, Rt.;1;1;6;110;60;61;20;36.3;98;4;Corneal abrasion;1;4;0;99;4,00;0
+2;1;48;6;2;1;Lt. hemiparesis;1;0;#BOÞ!;160;90;66;20;36.6;98;2;Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery;2;2;0;7889;5,00;0
+1;2;40;8;3;1;painful skin lesion;1;1;3;161;101;76;18;36.2;;4;Herpes zoster;1;4;0;62;3,65;0
+1;1;75;6;2;1;pain, chest;1;1;3;141;77;45;18;36;;2;Chest pain;5;2;0;50;4,15;0
+1;2;25;10;3;2;eyelid laceration;1;0;#BOÞ!;139;80;83;18;36.5;;4;Laceration of face;1;4;0;32;8,85;0
+2;1;84;10;2;1;hematemesis;1;0;#BOÞ!;150;100;100;20;36.6;96;3;Gastrointestinal haemorrhage, unspecified;2;3;0;488;2,00;0
+1;2;59;4;3;1;abd pain;1;1;3;163;83;71;20;36.2;;4;Spasm;1;4;0;71;2,97;0
+2;1;69;17;3;1;Abd. pain;1;1;2;120;70;60;20;36.4;98;4;Unspecified abdominal pain;2;4;0;698;5,00;0
+1;1;22;10;1;1;abd pain;1;1;3;140;92;109;20;37.2;;4;Colitis;2;4;0;276;11,78;0
+2;2;79;5;2;2;mental change;4;1;2;160;90;88;??;36.4;99;1;Traumatic subdural hemorrhage without open intracranial wound;2;1;0;101;5,00;0
+1;1;60;1;3;2;wrist pain, Lt;1;1;4;141;65;70;18;36.6;;4;Fracture of distal radius closed;1;4;0;278;3,12;0
+1;1;59;6;3;1;anxiety;1;0;#BOÞ!;201;106;64;20;36.3;;3;Palpitation;1;3;0;127;4,70;0
+2;2;80;3;2;2;mental change;3;0;#BOÞ!;140;100;110;24;36.6;95;2;Traumatic subdural hemorrhage without open intracranial wound;2;2;0;228;2,00;0
+2;1;57;6;2;1;headache;1;1;3;180;100;68;22;36.2;98;4;Headache;1;4;0;759;1,00;0
+2;2;58;7;3;2;Open Wound;1;1;3;110;70;60;20;36.3;94;4;Open wound of other parts of head, face;1;4;0;287;2,00;0
+2;1;78;6;3;1;ocular pain, both;1;1;4;130;80;96;20;36.4;98;4;Ocular pain;1;4;0;107;2,00;0
+1;2;16;8;3;1;throat pain;1;1;3;161;97;90;20;39.3;;4;Acute pharyngotonsillitis;2;4;0;326;13,77;0
+1;1;24;8;3;1;anal bleeding;1;1;3;148;69;87;20;37.2;;4;Colitis;1;4;0;139;9,10;0
+2;1;62;5;2;1;dizziness;1;0;#BOÞ!;100;60;68;20;36.3;99;3;Vestibular neuronitis;2;3;0;524;2,00;0
+1;2;62;3;3;1;??? ??;1;0;#BOÞ!;170;100;108;20;36.5;;4;Benign prostatic hyperplasia;1;4;0;26;4,02;0
+2;1;70;8;2;1;dyspnea;2;1;3;??;??;96;22;36.3;78;2;Dyspnoea;6;1;1;593;2,00;2
+2;2;74;12;3;1;ant. chest pain;1;1;3;140;90;80;20;36.0;98;2;Unstable angina;2;2;0;301;2,00;0
+1;2;52;7;3;1;for A/tapping;1;0;#BOÞ!;199;111;72;20;36.9;;5;Ascites;1;5;0;183;17,10;0
+2;2;48;5;2;2;Open Wound;1;1;3;130;80;110;20;36.6;97;3;Open wound of other parts of head, face;2;3;0;1013;4,00;0
+1;2;85;9;2;2;Femur Lesion;1;1;5;195;90;87;20;36;;4;Fracture of femur closed;1;4;0;194;5,65;0
+1;2;52;6;3;1;abd pain;1;1;7;122;82;102;16;36.4;;3;Chronic pancreatitis;4;3;0;92;12,27;0
+1;1;65;9;1;1;Amnesia;1;0;#BOÞ!;205;102;66;20;36.6;;3;Amnesia;1;3;0;479;15,92;0
+2;2;34;5;4;2;anterior chest discomfort;1;0;#BOÞ!;120;80;66;20;37.5;99;3;Toxic effect of carbon monoxide;1;3;0;9281;3,00;0
+1;2;63;8;3;1;limb paresthesia;1;0;#BOÞ!;164;92;79;16;36.7;;4;Acute pain;1;3;8;33;7,15;2
+2;1;53;5;3;1;ant. chest pain;1;1;3;110;70;72;20;36.1;99;2;Other chest pain;4;2;0;714;4,00;0
+2;1;49;2;3;2;Open Wound;1;1;3;120;80;74;20;36.2;98;4;Open wound of other parts of head, face;1;4;0;134;2,00;0
+2;1;76;8;2;1;syncope;1;0;#BOÞ!;130;80;71;20;36.3;100;2;Cerebral infarction, unspecified;2;2;0;481;2,00;0
+1;2;57;10;3;1;Ankle Injury;1;1;2;119;74;68;16;36.7;;5;Sprain of ankle;1;5;0;115;13,92;0
+1;2;62;8;3;2;Arm Injury;1;1;2;129;68;74;16;36.6;;5;Fracture of clavicle closed;1;5;0;89;9,27;0
+1;1;79;7;3;1;abd pain;1;1;3;159;95;76;20;36.6;;4;Cholangitis;2;4;0;608;9,62;0
+2;1;67;12;3;1;RLQ pain;1;1;3;120;80;88;20;36.3;97;4;Acute appendicitis, other and unspecified;7;4;0;624;2,00;0
+1;1;26;12;3;2;sexual violence;1;0;#BOÞ!;117;86;83;16;36;;4;Sexual abuse of adult;1;4;0;199;11,32;0
+1;1;47;6;2;2;facial injury;1;1;4;93;55;78;18;36.5;;4;Injury of face;1;4;0;132;5,65;0
+2;2;63;4;3;1;Rt. side motor weakness;1;0;#BOÞ!;160;100;90;20;36.4;98;2;Cerebrovascular accident NOS;5;2;0;321;5,00;0
+2;2;82;13;3;2;ocular pain, Lt.;1;1;4;130;80;82;20;36.3;96;4;Burn of cornea and conjunctival sac;1;4;0;180;3,00;0
+1;1;29;5;3;1;pain, low back;1;1;5;120;87;81;18;36.8;;4;Acute pyelonephritis;1;3;2;21;12,05;2
+2;2;73;5;3;1;abdomen pain;1;1;3;110;70;64;20;36.2;97;4;Acute abdomen;1;4;0;980;3,00;0
+1;1;74;15;2;1;dizziness;1;0;#BOÞ!;86;64;80;20;37.4;;2;Hypoglycemia;2;2;0;1070;13,28;0
+1;2;41;7;3;1;distension, abd;1;0;#BOÞ!;204;115;118;20;36.8;;3;Chronic cough;2;3;0;312;15,20;0
+1;1;77;9;6;1;epistaxis;1;0;#BOÞ!;122;65;86;18;36.8;;3;Epistaxis;1;3;0;152;9,75;0
+1;1;68;4;1;1;tooth pain, Lt;1;1;7;181;92;68;16;36.2;;4;Gingivitis;1;4;0;159;7,90;0
+2;1;77;6;2;1;dizziness;1;0;#BOÞ!;190;100;88;20;36.4;98;3;Hypertension(arterial, essential, primary, systemic);2;3;0;20087;1,00;0
+1;2;79;9;3;1;abnormal lab.;1;0;#BOÞ!;166;69;59;16;36.9;;5;Leukocytosis;1;5;0;157;10,35;0
+2;2;37;7;4;1;LOC - Loss of consciousness;1;1;3;140;80;105;20;36.8;98;3;Syncope;1;3;0;9989;5,00;0
+2;1;79;8;3;1;loss of consciousness;1;0;#BOÞ!;90;60;60;20;36.2;96;3;Syncope;1;3;0;9961;4,00;0
+2;1;62;2;3;1;throat pain;1;1;6;140;90;98;22;36.8;98;2;Acute epiglottitis without obstruction;2;3;4;1242;4,00;1
+1;1;56;9;2;2;right elbow pain;1;1;6;141;77;78;20;36.4;;4;Contusion of elbow;1;4;0;64;13,07;0
+1;2;84;10;2;1;vomiting;2;0;#BOÞ!;138;70;54;20;36.1;;4;Acute gastroenteritis;1;3;2;226;8,13;2
+1;2;91;12;4;1;fever;3;0;#BOÞ!;142;86;110;24;38.6;;2;Aspiration pneumonia;2;2;0;1;4,00;0
+1;2;36;6;3;1;throat pain;1;0;#BOÞ!;148;90;90;20;36.9;;4;Acute pharyngitis;1;5;4;297;4,15;1
+1;2;66;12;3;1;general weakness;1;0;#BOÞ!;101;64;93;20;37.6;;4;Dizziness;1;4;0;152;11,65;0
+2;1;36;1;3;1;vaginal discharge;1;0;#BOÞ!;100;70;69;20;36.3;99;3;Premature rupture of membranes, onset of labor within 24 hours, Unspecified;2;3;0;23;2,00;0
+2;1;22;1;3;1;right upper abdominal pain;1;1;5;100;60;80;20;36.2;98;4;Female pelvic inflammatory disease, unspecified;1;3;4;698;3,00;2
